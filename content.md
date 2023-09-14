@@ -15,7 +15,7 @@ class: center, middle
 
 class:center,middle
 ![img](images/big-data-meme-star-trek.jpg)
-### Follow along: http://bit.ly/PrattCriticalGeo
+### Follow along: 
 
 ---
 
