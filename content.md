@@ -422,92 +422,49 @@ https://www.packtpub.com/big-data-and-business-intelligence/using-openrefine
 ---
 
 # OpenRefine
+--
 
----
-
-# OpenRefine
 + In-browser application
+--
 
----
-
-# OpenRefine
-+ In-browser application
 + Used to clean data
+--
 
----
-
-# OpenRefine
-+ In-browser application
-+ Used to clean data
 + Converts data from various file types
+--
 
----
-
-# OpenRefine
-+ In-browser application
-+ Used to clean data
-+ Converts data from various file types
 + Exports data into various formats
 
 ---
 
 # OpenRefine - Pros
+--
 
----
-
-# OpenRefine - Pros
 + Works with lots of data types
+--
 
----
-
-# OpenRefine - Pros
-+ Works with lots of data types
 + Great for converting Excel files to CSV (the carriage return problem)
+--
 
----
-
-# OpenRefine - Pros
-+ Works with lots of data types
-+ Great for converting Excel files to CSV (the carriage return problem)
 + Facets are powerful (facet on anything)
+--
 
----
-
-# OpenRefine - Pros
-+ Works with lots of data types
-+ Great for converting Excel files to CSV (the carriage return problem)
-+ Facets are powerful (facet on anything)
 + Can export to various formats
+--
 
----
-
-# OpenRefine - Pros
-+ Works with lots of data types
-+ Great for converting Excel files to CSV (the carriage return problem)
-+ Facets are powerful (facet on anything)
-+ Can export to various formats
 + Meant specifically to clean data
 
 ---
 
 # OpenRefine - Cons
+--
 
----
-
-# OpenRefine - Cons
 + In browser memory is limited
+--
 
----
-
-# OpenRefine - Cons
-+ In browser memory is limited
 + Only display 50 rows at a time
+--
 
----
-
-# OpenRefine - Cons
-+ In browser memory is limited
-+ Only display 50 rows at a time
 + Meant for cleaning data (not displaying it)
 
 ---
@@ -627,76 +584,44 @@ class:center,middle
 ---
 
 # API Steps
+--
 
----
-
-# API Steps
 + Make a request
+--
 
----
-
-# API Steps
-+ Make a request
 + Get a response
+--
 
----
-
-# API Steps
-+ Make a request
-+ Get a response
 ## &nbsp;
 ![img-full](images/api1.png)
 
 ---
 
 # Using an API
+--
 
----
-
-# Using an API
 1. Register for API keys
+--
 
----
-
-# Using an API
-1. Register for API keys
 2. Use the keys for a request
+--
 
----
-
-# Using an API
-1. Register for API keys
-2. Use the keys for a request
 3. Parse the response
+--
 
----
-
-# Using an API
-1. Register for API keys
-2. Use the keys for a request
-3. Parse the response
 4. Make beautiful visualizations
 
 ---
 
 # Example API Response
+--
 
----
-
-# Example API Response
 ![img-full](images/api2.png)
+--
 
----
-
-# Example API Response
-![img-full](images/api2.png)
 ![img](images/api3.png)
+--
 
----
-
-# Example API Response
-![img-full](images/api2.png)
-![img](images/api3.png)
 ## This is JSON (**J**ava**S**cript **O**bject **N**otation)
 
 ---
@@ -708,11 +633,7 @@ class:center,middle
 
 # Sample API Request
 ![img-full](images/4s_api2.png)
-
----
-
-# Sample API Request
-![img-full](images/4s_api2.png)
+--
 
 ### Endpoint
 + `https://api.foursquare.com/v2/venues/search?`
@@ -721,11 +642,7 @@ class:center,middle
 
 # Sample API Request
 ![img-full](images/4s_api3.png)
-
----
-
-# Sample API Request
-![img-full](images/4s_api3.png)
+--
 
 ### Query Parameters
 + `ll=40.7037253789768,-74.0079939173954`
@@ -736,11 +653,7 @@ class:center,middle
 
 # Sample API Request
 ![img-full](images/4s_api4.png)
-
----
-
-# Sample API Request
-![img-full](images/4s_api4.png)
+--
 
 ### Authentication
 + `client_id=TQTH2POSXDUDYOHKHXM0VKDRCBSSYAFUWMVSWBCI10URJBTR`
@@ -821,7 +734,7 @@ class:center,middle
 ---
 
 class:center,middle
-#10 Min Break
+# 10 Min Break
 ![img](http://imgs.xkcd.com/comics/11th_grade.png)
 
 http://xkcd.com/519/
@@ -834,12 +747,12 @@ class:center,middle
 ---
 
 class:center,middle
-![img-full](http://howes-it-going.com/perl_ex4.jpg)
+![img-full](https://web.archive.org/web/20160321111959/http://howes-it-going.com/perl_ex4.jpg)
 
-http://howes-it-going.com/perl_mdb.html
+https://web.archive.org/web/20191213233500/http://howes-it-going.com/perl_mdb.html
 
 ---
-
+exclude:true
 class:center,middle
 # A Quick Introduction to Python
 ![img](http://learn.coleggwent.ac.uk/pluginfile.php/350752/mod_book/chapter/5983/royal%20python.jpg)
@@ -898,7 +811,7 @@ http://learn.coleggwent.ac.uk/mod/book/view.php?id=198016&chapterid=5983
 
 <a href="https://twitter.com/CitiBikeDocks/status/632679418264219649">![img](images/cb_status1.png)</a>
 
-###"success" (In case your binary is a little rusty)
+### "success" (In case your binary is a little rusty)
 
 ---
 
