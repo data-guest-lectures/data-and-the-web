@@ -15,7 +15,7 @@ class: center, middle
 
 class:center,middle
 ![img](images/big-data-meme-star-trek.jpg)
-### Follow along: 
+### Follow along: https://data-guest-lectures.github.io/data-and-the-web/
 
 ---
 
